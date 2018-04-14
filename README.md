@@ -1,2 +1,3 @@
 # kubernetes-hello
-hello world using service and deployment files 
+hello world program using service and deployment files 
+Command used to execute:
